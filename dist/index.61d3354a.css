@@ -221,4 +221,29 @@ img, video {
   --tw-backdrop-sepia: ;
 }
 
+.nav__align {
+  color: #fff;
+  background-color: #5c39b9;
+  border-radius: 21%;
+  padding: 5px;
+  position: relative;
+  top: 20px;
+  left: 20px;
+}
+
+.page__align {
+  color: #fff;
+  text-align: center;
+  background-color: #00f;
+  border: 1px solid #fff;
+  padding: 50px;
+  font-weight: bold;
+  position: relative;
+  top: 48px;
+}
+
+.relative {
+  position: relative;
+}
+
 /*# sourceMappingURL=index.61d3354a.css.map */
